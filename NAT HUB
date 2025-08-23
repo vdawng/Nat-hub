@@ -1,4 +1,4 @@
-local t = tick() + 10
+local t = tick() + 4
 while tick() < t do end
 
 
